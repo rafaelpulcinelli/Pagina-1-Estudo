@@ -1,4 +1,4 @@
-# rafaelpulcinelli.github.io
+# Pagina-1-Estudo
 Minha primeira página web
 Este projeto é uma página web simples e responsiva criada com HTML e CSS. A página apresenta um guia de estudos com dicas baseadas em livros sobre aprendizado e organização, além de informações sobre redes sociais.
 
